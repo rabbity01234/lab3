@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    float x=69,y=0;
-    while(x>=2){
+    float x=19,y=0;
+    while(x>=6){
         y=1/x+y;
       x=x-1;
        
